@@ -1,5 +1,4 @@
 # Password-Generator-Web-application
-<h1>Password Generator Web App</h1>
 
 <p>Password Generator Web App written in HTML, CSS, and JavaScript .</p>
 
